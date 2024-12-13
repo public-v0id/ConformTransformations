@@ -1,0 +1,6 @@
+/home/Petrign/Проги/CPP/conform/cmake/CMakeFiles/transformations.dir
+/home/Petrign/Проги/CPP/conform/cmake/CMakeFiles/complex.dir
+/home/Petrign/Проги/CPP/conform/cmake/CMakeFiles/math.dir
+/home/Petrign/Проги/CPP/conform/cmake/CMakeFiles/conform_transformations.dir
+/home/Petrign/Проги/CPP/conform/cmake/CMakeFiles/edit_cache.dir
+/home/Petrign/Проги/CPP/conform/cmake/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/lib64/ccache/c++ -rdynamic CMakeFiles/conform_transformations.dir/src/main.cpp.o -o conform_transformations  libtransformations.a libmath.a libcomplex.a
